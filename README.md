@@ -19,7 +19,7 @@ The client can print the report to PDF or download a feedback JSON file to send 
 
 - [WordPress care-plan reports](https://siteproof-local.slava1309.chatgpt.site/wordpress-care-reports.html): document visible content and design updates alongside your existing maintenance reporting.
 - [Webflow project handoffs](https://siteproof-local.slava1309.chatgpt.site/webflow-handoff-reports.html): give each visual change a before, an after and a clear explanation.
-- [Optional Chrome/Edge extension 0.1.2](https://siteproof-local.slava1309.chatgpt.site/install.html): capture the visible area of a page from the toolbar. Manual installation is required; no store listing is available yet.
+- [Optional Chrome/Edge extension 0.1.3](https://siteproof-local.slava1309.chatgpt.site/install.html): capture the visible area of a page from the toolbar. Manual installation is required; no store listing is available yet.
 - [Watch the recorded extension workflow](https://siteproof-local.slava1309.chatgpt.site/#how-it-works): a real silent recording using a fictional project.
 
 ## Work with colleagues
@@ -39,6 +39,10 @@ The software is free. An optional **$29 one-off assisted report pilot** covers o
 For a separate second look before a client handoff, the **$49 manual visual-review pilot** covers up to three public pages in desktop Chromium at 1440px and a 390px mobile-sized viewport. Receive up to five observed findings with screenshots, reproduction steps and recommendations, plus one clarification round. It does not include implementing fixes or a security/accessibility certification. Scope, a delivery slot and an available payment method are confirmed before work.
 
 [Review scope and inquiry](https://siteproof-local.slava1309.chatgpt.site/launch-review.html) · [Fictional sample review](https://siteproof-local.slava1309.chatgpt.site/launch-review-sample.html). The sample is not a customer audit. The page prepares an email draft and collects no payment.
+
+## Reliability update
+
+Web Workspace 1.0.1 and extension 0.1.3 preserve unsaved edits if you start typing while the editor is refreshing after you return to its window. The refresh also respects project/change navigation, open dialogs and work already in progress. Export important project backups as usual.
 
 ## Current limits
 
