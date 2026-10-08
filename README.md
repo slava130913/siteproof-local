@@ -31,4 +31,4 @@ Back up projects before removing the extension or clearing browser data. Keep fe
 
 The extension is free. An optional **$29 one-off assisted first-report pilot** includes up to three before/after items using your approved screenshots and notes, an HTML report and one revision. Scope, timing and payment options are agreed by email before work begins. There is no online checkout or recurring charge.
 
-Contact: [Vyacheslav Kolesnik / SiteProof](mailto:vyacheslavkilo@gmail.com)
+Contact: [SiteProof Support](mailto:vyacheslavkilo@gmail.com)
