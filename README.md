@@ -1,47 +1,43 @@
-# SiteProof Local Edition
+# SiteProof
 
-A free Chrome and Edge extension for small web studios to turn website updates into before-and-after client reports.
+Before-and-after client reports for independent web studios. Upload screenshots, add context, redact private areas and export one HTML file your client can open without an account.
 
-**[Download and demo](https://siteproof-local.slava1309.chatgpt.site)** · [Installation guide](https://siteproof-local.slava1309.chatgpt.site/install.html) · [Privacy](https://siteproof-local.slava1309.chatgpt.site/privacy.html)
+**[Try the free browser workspace](https://siteproof-local.slava1309.chatgpt.site/workspace/)** · [Sample client report](https://siteproof-local.slava1309.chatgpt.site/demo.html) · [Website](https://siteproof-local.slava1309.chatgpt.site/)
 
-![SiteProof workspace with a fictional demonstration project](https://siteproof-local.slava1309.chatgpt.site/assets/workspace.png)
+No installation is needed for the browser workspace. Projects stay in this website's storage in your current browser profile. There are no accounts, cloud uploads, analytics or subscriptions in the workspace.
 
-[Watch the recorded workflow](https://siteproof-local.slava1309.chatgpt.site/#how-it-works) — a silent recording of the real extension using a fictional project.
+## Make your first report
 
-## What it does
+1. Open the browser workspace and create a project, or try the fictional sample project.
+2. Add a change with before-and-after screenshots and a short explanation.
+3. Cover any private image areas, save, then export the client HTML report.
+4. Open and check the file before sharing through your usual protected channel.
 
-- Capture the visible part of an HTTP(S) page, or upload screenshots.
-- Add before/after images, notes and your studio name.
-- Cover sensitive image areas with opaque redaction.
-- Export a standalone HTML report with its images, or print it to PDF.
-- Export project JSON backups and manually import returned client feedback.
-- Recover an unsaved change as an importable backup.
-- Import a separate project copy, with explicit confirmation before replacement.
-- Keep separate client reviews and identify mixed feedback for the same report.
+The client can print the report to PDF or download a feedback JSON file to send back. Import that file to keep the review with its report version. The report does not send feedback automatically or authenticate the reviewer.
 
-Projects stay in the current browser profile. No account, subscription, external AI service or automatic screenshot upload.
+## Choose your workflow
 
-## Install version 0.1.2
+- [WordPress care-plan reports](https://siteproof-local.slava1309.chatgpt.site/wordpress-care-reports.html): document visible content and design updates alongside your existing maintenance reporting.
+- [Webflow project handoffs](https://siteproof-local.slava1309.chatgpt.site/webflow-handoff-reports.html): give each visual change a before, an after and a clear explanation.
+- [Optional Chrome/Edge extension 0.1.2](https://siteproof-local.slava1309.chatgpt.site/install.html): capture the visible area of a page from the toolbar. Manual installation is required; no store listing is available yet.
+- [Watch the recorded extension workflow](https://siteproof-local.slava1309.chatgpt.site/#how-it-works): a real silent recording using a fictional project.
 
-1. [Download the extension ZIP](https://siteproof-local.slava1309.chatgpt.site/downloads/SiteProof-extension-v0.1.2.zip) and extract it.
-2. Open chrome://extensions or edge://extensions.
-3. Enable Developer mode, choose **Load unpacked** and select the extracted folder containing manifest.json.
-4. Open the extension from the toolbar. Try the included fictional sample, or create a project.
+## Work with colleagues
 
-This is an early release distributed for manual installation. A store listing is not available yet. Capture covers the visible viewport, not an entire scrolling page.
+Export a project JSON backup and share it through your chosen protected channel. A colleague can import it in the browser workspace or the extension. Copies do not synchronize or merge. Agree who edits next and back up before replacing a project.
 
-## Data and feedback
+Web and extension storage are separate. Project backups move work between them; feedback files must be kept separately. Export important backups before clearing browser data, uninstalling the extension or changing devices. Local storage is not a backup.
 
-Back up projects before removing the extension or clearing browser data. Keep feedback JSON files separately; project backups exclude feedback. Review exported files before sharing them. Feedback is tied to a report version but does not authenticate the sender or act as a digital signature.
+## Optional assisted report
 
-## Working with a colleague
+The software is free. An optional **$29 one-off assisted report pilot** covers one HTML report with up to three before-and-after items and one revision, using your approved screenshots and notes. Scope, timing and available payment options are confirmed by email before work. There is no recurring charge or online checkout.
 
-Send a project JSON backup through your usual protected channel. Each colleague works in a local copy; there is no shared cloud project or automatic merge. Send HTML to clients for review, and keep returned feedback files separately.
+[Prepare a pilot request](https://siteproof-local.slava1309.chatgpt.site/request.html). This creates an email draft; nothing is sent until you send it from your email application.
 
-Validation: 14 core checks, the real Edge UI smoke suite and the team workflow suite passed. The toolbar capture user gesture still requires a separate manual check.
+## Current limits
 
-## Optional help
+There is no shared cloud project, public client link, automatic full-page screenshot, automatic file delivery or guaranteed result. The web app needs the website to load; exported HTML reports work offline. Capture via the extension covers the visible viewport. Its toolbar permission gesture still needs a separate manual verification.
 
-The extension is free. An optional **$29 one-off assisted first-report pilot** includes up to three before/after items using your approved screenshots and notes, an HTML report and one revision. Scope, timing and payment options are agreed by email before work begins. There is no online checkout or recurring charge.
+This repository currently contains public product documentation and release links. Extension ZIP downloads are hosted on the product website; the repository is not a complete source checkout or a published extension store listing.
 
-Contact: [SiteProof Support](mailto:vyacheslavkilo@gmail.com)
+[Privacy and storage](https://siteproof-local.slava1309.chatgpt.site/privacy.html) · [SiteProof Support](mailto:vyacheslavkilo@gmail.com)
