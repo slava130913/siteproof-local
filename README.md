@@ -4,6 +4,8 @@ A free Chrome and Edge extension for small web studios to turn website updates i
 
 **[Download and demo](https://siteproof-local.slava1309.chatgpt.site)** · [Installation guide](https://siteproof-local.slava1309.chatgpt.site/install.html) · [Privacy](https://siteproof-local.slava1309.chatgpt.site/privacy.html)
 
+![SiteProof workspace with a fictional demonstration project](https://siteproof-local.slava1309.chatgpt.site/assets/workspace.png)
+
 ## What it does
 
 - Capture the visible part of an HTTP(S) page, or upload screenshots.
@@ -14,9 +16,9 @@ A free Chrome and Edge extension for small web studios to turn website updates i
 
 Projects stay in the current browser profile. No account, subscription, external AI service or automatic screenshot upload.
 
-## Install version 0.1.0
+## Install version 0.1.1
 
-1. [Download the extension ZIP](https://siteproof-local.slava1309.chatgpt.site/downloads/SiteProof-extension.zip) and extract it.
+1. [Download the extension ZIP](https://siteproof-local.slava1309.chatgpt.site/downloads/SiteProof-extension-v0.1.1.zip) and extract it.
 2. Open `chrome://extensions` or `edge://extensions`.
 3. Enable Developer mode, choose **Load unpacked** and select the extracted folder containing `manifest.json`.
 4. Open the extension from the toolbar. Try the included fictional sample, or create a project.
