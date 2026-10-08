@@ -34,6 +34,12 @@ The software is free. An optional **$29 one-off assisted report pilot** covers o
 
 [Prepare a pilot request](https://siteproof-local.slava1309.chatgpt.site/request.html). This creates an email draft; nothing is sent until you send it from your email application.
 
+## Optional visual launch review
+
+For a separate second look before a client handoff, the **$49 manual visual-review pilot** covers up to three public pages in desktop Chromium at 1440px and a 390px mobile-sized viewport. Receive up to five observed findings with screenshots, reproduction steps and recommendations, plus one clarification round. It does not include implementing fixes or a security/accessibility certification. Scope, a delivery slot and an available payment method are confirmed before work.
+
+[Review scope and inquiry](https://siteproof-local.slava1309.chatgpt.site/launch-review.html) · [Fictional sample review](https://siteproof-local.slava1309.chatgpt.site/launch-review-sample.html). The sample is not a customer audit. The page prepares an email draft and collects no payment.
+
 ## Current limits
 
 There is no shared cloud project, public client link, automatic full-page screenshot, automatic file delivery or guaranteed result. The web app needs the website to load; exported HTML reports work offline. Capture via the extension covers the visible viewport. Its toolbar permission gesture still needs a separate manual verification.
